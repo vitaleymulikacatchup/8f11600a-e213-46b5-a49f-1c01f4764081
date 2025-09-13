@@ -66,7 +66,6 @@ export default function Home() {
             { items: [{ label: 'Terms of Service', onClick: () => {} }] },
             { items: [{ label: 'Contact Us', onClick: () => {} }] }
           ]}
-          copyrightText="© 2023 NovaFlow. All rights reserved."
           onPrivacyClick={() => {}}
         />
       </div>
