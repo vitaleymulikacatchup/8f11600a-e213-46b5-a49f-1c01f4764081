@@ -17,7 +17,6 @@ export default function Home() {
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingInline 
           logoSrc="/images/logo.svg" 
-          logoAlt="NovaFlow Logo" 
           navItems={[
             { name: '#hero', id: 'hero' },
             { name: '#about', id: 'about' },
